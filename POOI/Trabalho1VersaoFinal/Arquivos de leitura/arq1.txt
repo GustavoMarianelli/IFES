@@ -1,0 +1,6 @@
+1	GabrielGol	30	70
+5	Lula	24	80
+4	EvertonRibeiro	23	77
+2	Maradona	80	80
+3	LéoPereira	30	70
+

@@ -1,0 +1,5 @@
+5	Pelé	60	50
+1	Arrascaeta	40	30
+3	HugoNeneca	50	30
+2	Bolsonaro	40	30
+4	Neymar	30	60
